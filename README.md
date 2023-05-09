@@ -48,9 +48,7 @@
 
 ## Etc.
 - [LG헬로비전 뉴스 기사](http://news.lghellovision.net/news/articleView.html?idxno=408922)
-
 [![뉴스 미리보기](https://img.youtube.com/vi/tEQOER6sF1U/0.jpg)](https://www.youtube.com/watch?v=tEQOER6sF1U)
-
 - [공모전 관련 기사](https://naver.me/Gu0BBvNB)
 - [교내 학보사 인터뷰](http://www.cukjournal.com/news/articleView.html?idxno=3787)
 
