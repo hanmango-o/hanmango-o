@@ -1,7 +1,5 @@
 ## About Me
 
-[![Video Label](http://img.youtube.com/vi/tEQOER6sF1U/0.jpg)](https://www.youtube.com/watch?v=tEQOER6sF1U)
-
 - 가톨릭대학교 컴퓨터정보공학부 4학년 1학기 재학중입니다.
 - 다양한 언어로 프로그래밍 하는 것을 즐기며, 특히 Flutter Framework를 사용한 크로스 플랫폼 앱 개발을 좋아합니다.
 - 다양한 프로젝트를 경험하고 성장하는 것을 목표로 프로그래밍하고 있습니다.
@@ -50,6 +48,9 @@
 
 ## Etc.
 - [LG헬로비전 뉴스 기사](http://news.lghellovision.net/news/articleView.html?idxno=408922)
+
+[![뉴스 미리보기](https://img.youtube.com/vi/tEQOER6sF1U/0.jpg)](https://www.youtube.com/watch?v=tEQOER6sF1U)
+
 - [공모전 관련 기사](https://naver.me/Gu0BBvNB)
 - [교내 학보사 인터뷰](http://www.cukjournal.com/news/articleView.html?idxno=3787)
 
