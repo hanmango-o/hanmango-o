@@ -17,7 +17,7 @@ Flutter, Android 기반 Mobile Developer로, 학부시절부터 Flutter를 활�
 ### [슬레이트-영화 촬영지 관광 앱](https://github.com/slate-movte/slate-client) <sub><sup>공모전 | 장려상(한국관광공사)</sup></sub> 
 
 <sub>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&> logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Bloc-%23323332.svg?style=flat&logo=flutter&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Google%20Maps%20SDK-4285F4?style=flat&logo=google-maps&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/flutter_camera-grey?style=flat&logo=photo&logoColor=white" height="20">
