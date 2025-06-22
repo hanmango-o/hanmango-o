@@ -42,8 +42,6 @@
 
 ---
 
-  
-
 
 <!-- 프로필 Section End --->
 <h2 style="border: none; margin-bottom: 16px; padding-bottom: 0; font-size: 1.8em;">Work Experience.</h2>
@@ -70,8 +68,8 @@
 
 
 
-
 <h2 style="border: none; margin-bottom: 16px; padding-bottom: 0; font-size: 1.8em;">Other Project.</h2>
+
 
 <a href="https://github.com/slate-movte/slate-client" target="_blank" style="text-decoration: none; color: inherit;">
   <div align="left" style="
@@ -130,8 +128,6 @@
   <img src="https://img.shields.io/badge/GPS-4285F4?style=flat&logo=google-maps&logoColor=white" height="20">
   <img src="https://img.shields.io/badge/Accessibility-6A5ACD?style=flat&logo=accessible-icon&logoColor=white" height="20">
 </div>
-
-
   <p style="margin: 0; font-size: 0.95em; color: inherit;">
   • 시각장애인이 음향신호기 버튼을 직접 누르지 않고, BLE를 통해 App으로 제어할 수 있도록 하는 서비스를 개발했습니다.<br/>
   • 직접 사용자 인터뷰를 하고, 횡단보도 구매를 통한 필드 테스트를 진행하는 등 안전한 보행 보조 서비스 개발에 집중했습니다.<br/>
